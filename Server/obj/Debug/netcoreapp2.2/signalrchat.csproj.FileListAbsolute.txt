@@ -1,0 +1,16 @@
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.csprojAssemblyReference.cache
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.RazorAssemblyInfo.cache
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.RazorAssemblyInfo.cs
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.AssemblyInfoInputs.cache
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.AssemblyInfo.cs
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\appsettings.json
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\signalrchat.deps.json
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\signalrchat.runtimeconfig.json
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\signalrchat.runtimeconfig.dev.json
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\signalrchat.dll
+D:\dev\signalrchat\Server\bin\Debug\netcoreapp2.2\signalrchat.pdb
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.RazorTargetAssemblyInfo.cache
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.dll
+D:\dev\signalrchat\Server\obj\Debug\netcoreapp2.2\signalrchat.pdb

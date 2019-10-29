@@ -1,0 +1,10 @@
+D:\dev\signalrchat\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.deps.json
+D:\dev\signalrchat\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.runtimeconfig.json
+D:\dev\signalrchat\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.runtimeconfig.dev.json
+D:\dev\signalrchat\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.dll
+D:\dev\signalrchat\ConsoleClient\bin\Debug\netcoreapp2.2\ConsoleClient.pdb
+D:\dev\signalrchat\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.csprojAssemblyReference.cache
+D:\dev\signalrchat\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.AssemblyInfoInputs.cache
+D:\dev\signalrchat\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.AssemblyInfo.cs
+D:\dev\signalrchat\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.dll
+D:\dev\signalrchat\ConsoleClient\obj\Debug\netcoreapp2.2\ConsoleClient.pdb
